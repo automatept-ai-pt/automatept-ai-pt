@@ -1,6 +1,6 @@
 ### Hi, I'm Artem 👋
 
-Founder of **Automate-AI** (https://automate-ai.pt) — I design and ship AI-powered automation for Portuguese SMEs, built on n8n and LLM APIs (Claude, OpenAI).
+Founder of **Automate-AI** (https://automate-ai.pt) — I design and ship AI-powered automation for SMEs in Portugal and beyond, built on n8n and LLM APIs (Claude, OpenAI).
 
 Also building **EvaArtHome** — automation tools for a small Etsy craft shop.
 
@@ -16,4 +16,4 @@ Also building **EvaArtHome** — automation tools for a small Etsy craft shop.
 
 **Currently:** open to remote AI Automation / AI Agents roles alongside running Automate-AI.
 
-📫 automate.pt@gmail.com · https://automate-ai.pt · https://t.me/automate_pt_bot
+📫 automate.pt@gmail.com · https://automate-ai.pt · https://www.linkedin.com/in/artem-galyeyev-2a8691418/ · https://t.me/automate_pt_bot
