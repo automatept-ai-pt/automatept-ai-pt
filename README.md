@@ -1,16 +1,17 @@
-## Hi there 👋
+### Hi, I'm Artem 👋
 
-<!--
-**automatept-ai-pt/automatept-ai-pt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Founder of **Automate-AI** (https://automate-ai.pt) — I design and ship AI-powered automation for Portuguese SMEs, built on **n8n** and LLM APIs (Claude, OpenAI).
 
-Here are some ideas to get you started:
+Also building **EvaArtHome** — automation tools for a small Etsy craft shop.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**Stack:** n8n · Node.js/Express · Claude & OpenAI APIs · WordPress/Elementor · PostgreSQL · Google Workspace APIs
+
+**Featured**
+
+🏭 craft-factory-service — Node/Express API for craft-pattern generation, called from n8n as an HTTP node
+
+🌐 automate-ai.pt — agency overview
+
+**Currently:** open to remote AI Automation / AI Agents roles alongside running Automate-AI.
+
+📫 automate.pt@gmail.com · https://automate-ai.pt · https://t.me/automate_pt_bot
