@@ -14,6 +14,8 @@ Also building **EvaArtHome** — automation tools for a small Etsy craft shop.
 
 🌐 automate-ai.pt — agency overview
 
+🔗 linkedin-auto-post-n8n — n8n workflow (Notion + Claude + Telegram) that generates and posts my LinkedIn content, EN/PT alternating
+
 **Currently:** open to remote AI Automation / AI Agents roles alongside running Automate-AI.
 
 📫 automate.pt@gmail.com · https://automate-ai.pt · https://www.linkedin.com/in/artem-galyeyev-2a8691418/ · https://t.me/automate_pt_bot
