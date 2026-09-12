@@ -18,4 +18,4 @@ Also building **EvaArtHome** — automation tools for a small Etsy craft shop.
 
 **Currently:** open to remote AI Automation / AI Agents roles alongside running Automate-AI.
 
-📫 automate.pt@gmail.com · https://automate-ai.pt · https://www.linkedin.com/in/artem-galyeyev-2a8691418/ · https://t.me/automate_pt_bot
+📫 automate.pt@gmail.com · https://automate-ai.pt · https://www.linkedin.com/in/artem-galyeyev/ · https://t.me/automate_pt_bot
